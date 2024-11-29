@@ -1,7 +1,6 @@
 # Aerofit - Descriptive Statistics & Probability
 
-![OIP](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/5bdebe39-dd58-43a1-ba1e-b2ea4e2fefaf)
-![OIP (2)](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/578d8893-fb64-4478-9992-b042c7f8c0a9)
+![Image Alt](https://github.com/monishtejavath/Aerofit-Descriptive-Statistics-Probability/blob/4147762a9c21c4d8ab3726cc34e02d78ce3ff30e/Banner-2-226702644.png)
 ---
 
 ## About Aerofit 🏃‍♂️
