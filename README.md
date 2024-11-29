@@ -1,6 +1,7 @@
 # Aerofit - Descriptive Statistics & Probability
 
-![Aerofit Treadmill](https://aerofit.co/wp-content/uploads/2022/07/450.jpg)
+![OIP](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/5bdebe39-dd58-43a1-ba1e-b2ea4e2fefaf)
+![OIP (2)](https://github.com/santhosh-spark/Aerofit--Descriptive-Statistics-Probability/assets/73495628/578d8893-fb64-4478-9992-b042c7f8c0a9)
 ---
 
 ## About Aerofit 🏃‍♂️
