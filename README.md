@@ -1,6 +1,6 @@
 # Aerofit - Descriptive Statistics & Probability
 
-![Aerofit Treadmills](attachment://450-641292947.jpg)
+![Aerofit Treadmill](attachment://file-CNWMnQCuFzSSAYTmXpumz2.jpg)
 ---
 
 ## About Aerofit 🏃‍♂️
