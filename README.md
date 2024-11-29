@@ -1,6 +1,6 @@
 # Aerofit - Descriptive Statistics & Probability
 
-![Aerofit Treadmills](https://via.placeholder.com/600x300?text=Aerofit+Treadmills)
+![Aerofit Treadmills](https://aerofit.co/wp-content/uploads/2022/07/450.jpg)
 
 ---
 
@@ -90,7 +90,3 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 ## Contact 📩
 For any queries or suggestions, please contact: [monishtejavath@gmail.com](mailto:monishtejavath@gmail.com).
 
----
-
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for more details.
